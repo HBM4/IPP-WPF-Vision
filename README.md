@@ -1,3 +1,5 @@
+<img width="3422" height="1367" alt="UI" src="https://github.com/user-attachments/assets/62db0dd7-d11e-4265-9ac4-6474c88829d8" />
+
 ## 1. 측정 조건
 
 | 항목 | 내용 |
