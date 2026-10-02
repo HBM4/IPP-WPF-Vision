@@ -1,4 +1,5 @@
 <img width="3422" height="1367" alt="UI" src="https://github.com/user-attachments/assets/62db0dd7-d11e-4265-9ac4-6474c88829d8" />
+(Dolphin 스타일 및 참조 완전 제거 후 기본 WPF으로 변경한 코드를 업로드 함)
 
 ## 1. 측정 조건
 
